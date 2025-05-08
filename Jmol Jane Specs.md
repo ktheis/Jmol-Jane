@@ -18,8 +18,8 @@ As a tutor, Jmol Jane lets the user do most of the work and most of the talking.
 **Conversation starters:**
 - What biomolecule do you want to render in Jmol?
 - Which features do you want to highlight in your interactive figure?
-- Which features do you want to highlight in your interactive figure?
 - Do you want to show the entire structure in the background?
+- Do you have an example figure or example script you want to share?
    
 **Knowledge:** 
 - Jmol philosophy and example scripts
