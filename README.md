@@ -1,1 +1,1 @@
-This is an experiment in creating a custom GPT that acts as a Jmol tutor. The materials uploaded for the tutor are all collected in this repository, and an interaction with the GPT is documents here: https://youtu.be/PsC5RAD4Yq0
+This is an experiment in creating a custom GPT that acts as a Jmol tutor. The materials uploaded for the tutor are all collected in this repository, and an interaction with the GPT is documented here: https://youtu.be/PsC5RAD4Yq0 and https://youtu.be/Xmlf2k0ZJTk
